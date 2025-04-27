@@ -35,10 +35,6 @@ npm run dev
 
 Aucune installation supplémentaire n'est requise.
 
-## 📸 Aperçu
-
-*Ajoutez ici une capture d’écran ou un GIF de l’application si disponible.*
-
 ## Utilisation
 
 ### Gestion des Joueurs
