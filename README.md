@@ -18,16 +18,6 @@ Basketball Team Building est une application web permettant de créer et gérer 
 - Pinia
 - Tailwind CSS
 
-## 📂 Structure du projet
-
-```
-basketball-team-building/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
 ## ✅ Lancement du projet
 
 1. Cloner le dépôt :
