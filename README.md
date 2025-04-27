@@ -1,12 +1,12 @@
 # 🏀 Basketball Team Building
 
-Basketball Team Building est une application web permettant de créer et gérer des équipes de basketball de manière intuitive. Ce projet a été réalisé dans le cadre de mon BTS SIO afin de mettre en pratique mes compétences en développement web.
+**Basketball Team Building** est une application web permettant de créer et de gérer des équipes de basketball de manière intuitive. Ce projet a été réalisé dans le cadre de mon BTS SIO afin de mettre en pratique mes compétences en développement web.
 
 ## 📌 Fonctionnalités
 
 - Gestion des joueurs (ajout, suppression, modification)
 - Gestion des équipes (création, suppression, modification du nom)
-- Organisation des matchs
+- Organisation de matchs
 - Suivi des scores en temps réel
 - Historique des matchs
 
@@ -24,34 +24,34 @@ Basketball Team Building est une application web permettant de créer et gérer 
 ```bash
 git clone https://github.com/Maxtro-code/basketball-team-building.git
 ```
-2. Installez les dépendances :
+2. Installer les dépendances :
 ```bash
 npm install
 ```
-3. Lancez le serveur :
+3. Lancer le serveur de développement :
 ```bash
 npm run dev
 ```
 
-Aucune installation supplémentaire n'est requise.
+> Aucune installation supplémentaire n'est requise.
 
-## Utilisation
+## 🚀 Utilisation
 
-### Gestion des Joueurs
-- Accédez à la page "Joueurs" pour ajouter de nouveaux joueurs
-- Remplissez les informations : nom, position, taille
-- Assignez un joueur à une équipe
+### Gestion des joueurs
+- Accédez à la page **Joueurs** pour ajouter de nouveaux joueurs.
+- Remplissez les informations : nom, position, taille.
+- Assignez les joueurs à une équipe.
 
-### Gestion des Équipes
-- Créez de nouvelles équipes dans la page "Équipes"
-- Modifiez le nom d'une équipe en cliquant dessus
-- Supprimez une équipe avec le bouton "Supprimer"
+### Gestion des équipes
+- Créez de nouvelles équipes dans la page **Équipes**.
+- Modifiez le nom d'une équipe en cliquant dessus.
+- Supprimez une équipe grâce au bouton **Supprimer**.
 
-### Gestion des Matchs
-- Créez des matchs dans la page "Matchs"
-- Sélectionnez deux équipes et une date
-- Suivez le score en direct pendant le match
-- Marquez les matchs comme "En cours", "Terminé" ou "À venir"
+### Gestion des matchs
+- Créez des matchs depuis la page **Matchs**.
+- Sélectionnez deux équipes ainsi qu'une date.
+- Suivez le score en direct pendant le match.
+- Gérez l'état du match : **À venir**, **En cours** ou **Terminé**.
 
 ## 👨‍💻 Auteur
 
@@ -60,4 +60,5 @@ Aucune installation supplémentaire n'est requise.
 
 ---
 
-> Ce projet est réalisé dans le cadre de ma formation BTS SIO, spécialité SLAM.
+> Ce projet a été réalisé dans le cadre de ma formation BTS SIO, spécialité SLAM.
+
