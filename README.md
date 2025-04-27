@@ -28,11 +28,11 @@ basketball-team-building/
 ## ✅ Lancement du projet
 
 1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/Maxtro-code/basketball-team-building.git
-   ```
+```bash
+git clone https://github.com/Maxtro-code/basketball-team-building.git
+```
 2. Installez les dépendances :
-   ```bash
+```bash
 npm install
 ```
 3. Lancez le serveur :
