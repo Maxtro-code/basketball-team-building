@@ -31,7 +31,14 @@ basketball-team-building/
    ```bash
    git clone https://github.com/Maxtro-code/basketball-team-building.git
    ```
-2. Ouvrir le fichier `index.html` dans un navigateur.
+2. Installez les dépendances :
+   ```bash
+npm install
+```
+3. Lancez le serveur :
+```bash
+npm run dev
+```
 
 Aucune installation supplémentaire n'est requise.
 
